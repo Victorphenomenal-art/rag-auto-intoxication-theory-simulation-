@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+title: "SMI LAB: RAG Auto-Intoxication Simulation"
+message: "If you use this software in your research, please cite it as below."
+type: software
+authors:
+  - family-names: "Anih"
+    given-names: "Chibueze Victor"
+    orcid: "https://orcid.org/0009-0008-3821-8845"
+    affiliation: "University of Nigeria Nsukka"
+    email: "anichibuezehenry@gmail.com"
+  - family-names: "Udochukwu"
+    given-names: "Daniel Eze"
+    affiliation: "University of Nigeria Nsukka"
+  - family-names: "Anayo"
+    given-names: "Chinedu Praise"
+    affiliation: "University of Nigeria Nsukka"
+
+repository-code: "https://github.com/Victorphenomenal-art/rag-auto-intoxication-theory-simulation"
+url: "https://github.com/Victorphenomenal-art/rag-auto-intoxication-theory-simulation"
+abstract: "Simulation code for validating the Anih-Provenance Master Equation of auto-intoxication in RAG systems. Scalable simulation supporting 100–10000 documents with provenance tracking, weighted retrieval, and API key rotation."
+keywords:
+  - "RAG"
+  - "Retrieval-Augmented Generation"
+  - "AI Safety"
+  - "Model Collapse"
+  - "Statistical Mechanics"
+  - "Anih-Provenance"
+  - "SMI LAB"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-03-22"
+
+references:
+  - title: "Auto-Intoxication Feedback Loop: Measuring Recursive Poisoning in RAG-GenAI Systems"
+    authors:
+      - family-names: "Anih"
+        given-names: "Chibueze Victor"
+    year: 2026
+    type: article
+    doi: "10.21203/rs.3.rs-8617092/v1"
+    url: "https://doi.org/10.21203/rs.3.rs-8617092/v1"
+
+  - title: "Auto-Intoxication in Retrieval-Augmented Generation: Empirical Laws and a Unified Thermodynamic Theory"
+    authors:
+      - family-names: "Anih"
+        given-names: "Chibueze Victor"
+    year: 2026
+    type: article
+    url: "https://github.com/Victorphenomenal-art/rag-auto-intoxication-theory-simulation"
+
+contact:
+  - name: "Chibueze Victor Anih"
+    email: "anichibuezehenry@gmail.com"
+    affiliation: "University of Nigeria Nsukka"
