@@ -1,0 +1,11 @@
+numpy
+torch
+faiss-cpu
+scikit-learn
+sentence-transformers
+pytest
+pandas
+scipy
+matplotlib
+google-generativeai
+tqdm
